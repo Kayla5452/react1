@@ -13,7 +13,7 @@
                     "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
                     "Refer to the Mulhausen Report [cross-ref:document00.023.603] for details related to object's discovery."
                 ],
-                "image": "./images/SCP002.jpg"
+                "image": "../../images/SCP002.jpg"
             },
             {
                 "scpNumber": "SCP-003",
@@ -54,14 +54,14 @@
                     "[DATA EXPUNGED]",
                     "."
                 ],
-                "image":"./images/SCP004.jpg"
+                "image":"../../images/SCP004.jpg"
             },
             {
                 "scpNumber": "SCP-005",
                 "scpObjectClass": "Safe",
                 "scpSCP": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area.",
                 "scpDescription": "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility. SCP-005 seems to have the unique ability to open any and all forms of lock (See Appendix A), be they mechanical or digital, with relative ease. The origin of this ability has yet to be determined.",
-                "image":"./images/SCP005.jpg"
+                "image":"../../images/SCP005.jpg"
             },
             {
                 "scpNumber": "SCP-006",
